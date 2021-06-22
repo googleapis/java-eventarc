@@ -14,7 +14,6 @@
 # limitations under the License.
 
 set -eo pipefail
-shopt -s nullglob
 
 ## Get the directory of the build script
 scriptDir=$(realpath $(dirname "${BASH_SOURCE[0]}"))
