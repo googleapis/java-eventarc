@@ -65,8 +65,7 @@ public final class TriggerProto {
   static {
     java.lang.String[] descriptorData = {
       "\n"
-          + "&google/cloud/eventarc/v1/trigger.proto"
-          + "\022\030google.cloud.eventarc.v1\032\034google/api/annotations.proto\032\037google/api/field_behavior.proto\032\031google/api/resource.proto\032\037google/protobuf/timestamp.proto\"\235\005\n"
+          + "&google/cloud/eventarc/v1/trigger.proto\022\030google.cloud.eventarc.v1\032\034google/api/annotations.proto\032\037google/api/field_behavior.proto\032\031google/api/resource.proto\032\037google/protobuf/timestamp.proto\"\235\005\n"
           + "\007Trigger\022\021\n"
           + "\004name\030\001 \001(\tB\003\340A\002\022\020\n"
           + "\003uid\030\002 \001(\tB\003\340A\003\0224\n"
