@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.8](https://github.com/googleapis/java-eventarc/compare/v1.3.7...v1.3.8) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([02d0f40](https://github.com/googleapis/java-eventarc/commit/02d0f4048182990c4ce8213cf0442b853fcc294c))
+
 ## [1.3.7](https://github.com/googleapis/java-eventarc/compare/v1.3.6...v1.3.7) (2022-10-03)
 
 
